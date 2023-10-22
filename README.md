@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TasfiqSami
-- 👀 I’m interested in Developing Minecraft Servers
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Developing 
+- 🌱 I’m currently learning Kothlin
 - 💞️ My Soicals https://bio.link/tasfiqah
-- 📫 How to reach me ...
+- 📫 How to reach me https://discord.com/qrexmc
 
 <!---
 TasfiqSami/TasfiqSami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
