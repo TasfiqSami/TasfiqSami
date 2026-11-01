@@ -1,137 +1,152 @@
+ 
 <!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+  GitHub Profile README
+  Repository: https://github.com/TasfiqSami/TasfiqSami
 -->
 
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:0F766E&text=TASFIQ%20AHMED%20SAMI&fontColor=EAF2FF&fontSize=38&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20MINECRAFT%20ENGINEER%20%7C%20PROJECT%20BUILDER&descSize=13&descAlignY=60&animation=fadeIn" alt="Tasfiq Ahmed Sami — software developer and Minecraft engineer" />
 
- -->
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bio.link/tasfiqah">Tasfiq</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.discord.com/invite/qrexmc">「Discord」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: tasfiq@programmer.net<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/TasfiqSami/TasfiqSami/issues)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
-
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/TasfiqSami">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=I+build+Minecraft+plugins+and+server+systems.;I+turn+ideas+into+useful+web+applications.;Java+%7C+JavaScript+%7C+Python+%7C+PHP.;Build.+Test.+Refine.+Repeat." alt="Animated introduction" />
   </a>
-</p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TasfiqSami&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/TasfiqSami?tab=followers"><img src="https://img.shields.io/github/followers/TasfiqSami?style=flat-square&color=0F766E&label=Followers" alt="GitHub followers" /></a>
+    <a href="https://github.com/TasfiqSami?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1E293B?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  </p>
+</div>
+
+---
+
+## 👋 A little about me
+
+I'm **Tasfiq**, a developer from **Bangladesh**. I build software across two areas I genuinely enjoy: **Minecraft engineering** and **application development**.
+
+A lot of my work involves taking an idea beyond a basic prototype—turning it into a feature, plugin, dashboard, or complete tool that can be used and maintained. I care about how software behaves outside the happy path: performance, edge cases, security, maintainability, and the experience of the people using it.
+
+- 🎮 **Minecraft:** Around 8 years in the Minecraft ecosystem, including roughly 5 years of plugin and Skript development.
+- ☕ **Engineering:** Java plugins, server-side systems, gameplay mechanics, integrations, and automation.
+- 🌐 **Application development:** Web applications, APIs, dashboards, and practical browser-based tools.
+- 🧩 **Mindset:** Understand the problem, build the solution, test the details, and keep improving it.
+
+## What I like building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Minecraft systems</h3>
+      <p>Paper-based plugins, competitive gameplay features, server tooling, proxy-aware integrations, and performance-conscious systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web applications</h3>
+      <p>Full-stack features, dashboards, backend APIs, authentication flows, external integrations, and responsive interfaces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Tools & automation</h3>
+      <p>Utilities that remove repetitive work, connect services, simplify workflows, and make systems easier to operate.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Project engineering</h3>
+      <p>Turning concepts into maintainable projects, from the first implementation through testing, deployment, and iteration.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/EggHolder">EggHolder / End War</a></h3>
+      <p>A Paper plugin for structured End PvP events built around the Dragon Egg objective. Includes EggHolder tracking, match flow, teams, hunter systems, side objectives, and event modifiers.</p>
+      <p><sub><strong>Java</strong> · Paper API · Maven</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/dpPracticeCore">dpPracticeCore</a></h3>
+      <p>A practice and competitive-combat core for the DreamPlayz network, with duel safeguards, projectile tuning, party tools, and server-specific integrations.</p>
+      <p><sub><strong>Java</strong> · Paper · Velocity ecosystem</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/syxlor-deen">Syxlor Deen</a></h3>
+      <p>An Islamic learning workspace featuring Quran reading, audio, study tools, saved verses, personal progress, and prayer-time features.</p>
+      <p><sub><strong>JavaScript</strong> · React · Vite · Node.js</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/Dream-Playz-System-Control">DreamPlayz System Panel</a></h3>
+      <p>A hosting and server administration panel for managing players, ranks, moderation data, server status, analytics, and audit logs.</p>
+      <p><sub><strong>PHP</strong> · MySQL / MariaDB · JavaScript</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/TasfiqUnloader">Tasfiq Unloader</a></h3>
+      <p>A lightweight Minecraft server plugin that places an empty server into a dormant state to reduce unnecessary idle resource usage.</p>
+      <p><sub><strong>Java</strong> · Bukkit / Spigot API</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/Passport-Tool">Passport Tool</a></h3>
+      <p>A browser-based utility with MRZ generation, date formatting, text transformation, and copy/export tools for development and testing.</p>
+      <p><sub><strong>HTML</strong> · CSS · JavaScript</sub></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
+  <a href="https://github.com/TasfiqSami?tab=repositories"><strong>Explore all my repositories →</strong></a>
 </p>
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
+## 🧰 Technologies & tools
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,nodejs,react,vite,mysql,git,linux&perline=6" alt="Java, JavaScript, Python, PHP, HTML, CSS, Node.js, React, Vite, MySQL, Git and Linux" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, JavaScript, Python, PHP, HTML, CSS |
+| **Web development** | Node.js, React, Vite, Express |
+| **Minecraft development** | Paper, Bukkit / Spigot APIs, Velocity, Skript |
+| **Build & data** | Maven, MySQL, MariaDB |
+| **Workflow** | Git, GitHub, Linux, VS Code |
+
+*The tools above reflect technologies I've used across projects; the exact stack varies by repository.*
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=TasfiqSami&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Tasfiq's GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasfiqSami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TasfiqSami&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+## 🤝 Connect
+
+I'm interested in useful projects, thoughtful engineering, and collaborations around **Minecraft development**, **server infrastructure**, **web applications**, and **developer tools**.
+
+<p align="center">
+  <a href="https://github.com/TasfiqSami?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://github.com/TasfiqSami/TasfiqSami/issues"><img src="https://img.shields.io/badge/Start_a_conversation-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Start a conversation" /></a>
+</p>
+
+<div align="center">
+  <sub>Built with curiosity, patience, and a lot of debugging.</sub>
+  <br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0B1020&height=110&section=footer" alt="" />
+</div>
