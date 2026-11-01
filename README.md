@@ -1,129 +1,149 @@
- 
 <!--
   GitHub Profile README
   Repository: https://github.com/TasfiqSami/TasfiqSami
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:0F766E&text=TASFIQ%20AHMED%20SAMI&fontColor=EAF2FF&fontSize=38&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20MINECRAFT%20ENGINEER%20%7C%20PROJECT%20BUILDER&descSize=13&descAlignY=60&animation=fadeIn" alt="Tasfiq Ahmed Sami — software developer and Minecraft engineer" />
-
-  <a href="https://github.com/TasfiqSami">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=I+build+Minecraft+plugins+and+server+systems.;I+turn+ideas+into+useful+web+applications.;Java+%7C+JavaScript+%7C+Python+%7C+PHP.;Build.+Test.+Refine.+Repeat." alt="Animated introduction" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:0F766E&text=TASFIQ%20AHMED%20SAMI&fontColor=EAF2FF&fontSize=38&fontAlignY=38&desc=CEO%20AT%20SYXLOR%20%7C%20TECHNOLOGY%20BUILDER&descSize=13&descAlignY=60&animation=fadeIn" alt="Tasfiq Ahmed Sami — CEO at SYXLOR and technology builder" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TasfiqSami&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
-    <a href="https://github.com/TasfiqSami?tab=followers"><img src="https://img.shields.io/github/followers/TasfiqSami?style=flat-square&color=0F766E&label=Followers" alt="GitHub followers" /></a>
-    <a href="https://github.com/TasfiqSami?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1E293B?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=45&lines=CEO+at+SYXLOR.;Building+software%2C+Minecraft+systems%2C+and+digital+products.;Working+with+web+platforms+and+server+infrastructure.;Continuously+learning+networking+and+cybersecurity." alt="A short introduction to Tasfiq" />
+  </p>
+
+  <p>
+    <a href="https://tasfiqahmed.com"><img src="https://img.shields.io/badge/Website-tasfiqahmed.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+    <a href="https://syxlor.xyz"><img src="https://img.shields.io/badge/Company-SYXLOR-172554?style=for-the-badge&logo=vercel&logoColor=white" alt="SYXLOR" /></a>
+    <a href="https://discord.tasfiqahmed.com"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://github.com/TasfiqSami?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/github/followers/TasfiqSami?style=flat-square&logo=github&label=Followers&color=0F766E" alt="GitHub followers" />
+    <img src="https://komarev.com/ghpvc/?username=TasfiqSami&style=flat-square&color=172554&label=Profile+views" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-334155?style=flat-square" alt="Location: Dhaka, Bangladesh" />
   </p>
 </div>
 
 ---
 
-## 👋 A little about me
+## About
 
-I'm **Tasfiq**, a developer from **Bangladesh**. I build software across two areas I genuinely enjoy: **Minecraft engineering** and **application development**.
+I'm **Tasfiq Ahmed Sami**, a technology builder and entrepreneur based in **Dhaka, Bangladesh**. I lead **[SYXLOR](https://syxlor.xyz)**, where I work across product direction, software development, digital platforms, and the infrastructure that supports them.
 
-A lot of my work involves taking an idea beyond a basic prototype—turning it into a feature, plugin, dashboard, or complete tool that can be used and maintained. I care about how software behaves outside the happy path: performance, edge cases, security, maintainability, and the experience of the people using it.
+My experience sits at the intersection of **software, Minecraft networks, and technology operations**. I enjoy taking an idea from concept to a working product: planning the features, building the system, connecting services, deploying it, and improving it through real use.
 
-- 🎮 **Minecraft:** Around 8 years in the Minecraft ecosystem, including roughly 5 years of plugin and Skript development.
-- ☕ **Engineering:** Java plugins, server-side systems, gameplay mechanics, integrations, and automation.
-- 🌐 **Application development:** Web applications, APIs, dashboards, and practical browser-based tools.
-- 🧩 **Mindset:** Understand the problem, build the solution, test the details, and keep improving it.
+I've been part of the Minecraft ecosystem for around **8 years**, including approximately **5 years working with plugins and Skript**. Alongside technology, I study business, which influences how I approach product decisions, user experience, operations, and long-term growth.
 
-## What I like building
+I'm also deepening my knowledge of **computer networking and cybersecurity**, with a particular interest in practical, defensive security and ethical hacking.
+
+## Areas of work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Minecraft systems</h3>
-      <p>Paper-based plugins, competitive gameplay features, server tooling, proxy-aware integrations, and performance-conscious systems.</p>
+      <h3>Product & leadership</h3>
+      <p>Leading SYXLOR initiatives, shaping product direction, planning features, coordinating projects, and connecting technical decisions with real user and business needs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Web applications</h3>
-      <p>Full-stack features, dashboards, backend APIs, authentication flows, external integrations, and responsive interfaces.</p>
+      <h3>Software & web development</h3>
+      <p>Building web applications, backend services, APIs, authentication flows, dashboards, admin panels, and browser-based utilities.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Tools & automation</h3>
-      <p>Utilities that remove repetitive work, connect services, simplify workflows, and make systems easier to operate.</p>
+      <h3>Minecraft engineering</h3>
+      <p>Developing Paper and Bukkit-based plugins, gameplay systems, competitive features, server integrations, and tools for Minecraft networks.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Project engineering</h3>
-      <p>Turning concepts into maintainable projects, from the first implementation through testing, deployment, and iteration.</p>
+      <h3>Infrastructure & operations</h3>
+      <p>Working with Linux servers, VPS environments, hosting panels, deployment workflows, DNS, tunnels, and service integrations.</p>
     </td>
   </tr>
 </table>
 
----
+## Selected projects
 
-## 🚀 Selected projects
+A selection of public work across software, Minecraft engineering, and practical tools.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TasfiqSami/EggHolder">EggHolder / End War</a></h3>
-      <p>A Paper plugin for structured End PvP events built around the Dragon Egg objective. Includes EggHolder tracking, match flow, teams, hunter systems, side objectives, and event modifiers.</p>
-      <p><sub><strong>Java</strong> · Paper API · Maven</sub></p>
+      <h3><a href="https://syxlor.xyz">SYXLOR</a></h3>
+      <p>A technology venture focused on digital products and software services. I lead its direction and contribute to its web platforms, product experiences, automation, and supporting infrastructure.</p>
+      <sub>Product leadership · Web platforms · Infrastructure</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TasfiqSami/dpPracticeCore">dpPracticeCore</a></h3>
-      <p>A practice and competitive-combat core for the DreamPlayz network, with duel safeguards, projectile tuning, party tools, and server-specific integrations.</p>
-      <p><sub><strong>Java</strong> · Paper · Velocity ecosystem</sub></p>
+      <h3><a href="https://github.com/TasfiqSami/advanced-mdviewer">Syxlor MD Viewer</a></h3>
+      <p>A private Markdown workspace with autosave, folders, tags, revision history, image attachments, themes, reading mode, exports, and an in-browser converter.</p>
+      <sub>TypeScript · Node.js · SQLite</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/TasfiqSami/syxlor-deen">Syxlor Deen</a></h3>
-      <p>An Islamic learning workspace featuring Quran reading, audio, study tools, saved verses, personal progress, and prayer-time features.</p>
-      <p><sub><strong>JavaScript</strong> · React · Vite · Node.js</sub></p>
+      <p>An Islamic learning web application with Quran reading, translations, audio, study tools, bookmarks, account features, and prayer-time functionality.</p>
+      <sub>JavaScript · React · Vite · Node.js · Express</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TasfiqSami/Dream-Playz-System-Control">DreamPlayz System Panel</a></h3>
-      <p>A hosting and server administration panel for managing players, ranks, moderation data, server status, analytics, and audit logs.</p>
-      <p><sub><strong>PHP</strong> · MySQL / MariaDB · JavaScript</sub></p>
+      <h3><a href="https://github.com/TasfiqSami/EggHolder">EggHolder / End War</a></h3>
+      <p>A Paper plugin for structured End PvP events, featuring Dragon Egg tracking, match flow, teams, hunter kits, audience tools, event modifiers, and live administration.</p>
+      <sub>Java · Paper API · Maven</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/TasfiqSami/TasfiqUnloader">Tasfiq Unloader</a></h3>
-      <p>A lightweight Minecraft server plugin that places an empty server into a dormant state to reduce unnecessary idle resource usage.</p>
-      <p><sub><strong>Java</strong> · Bukkit / Spigot API</sub></p>
+      <h3><a href="https://github.com/TasfiqSami/Domain-Minecraft-Intel-Tool">Domain & Minecraft Intel Tool</a></h3>
+      <p>A Python Discord bot for retrieving domain, IP, player UUID, and Minecraft server information, including server software and status details.</p>
+      <sub>Python · Discord API · Minecraft server utilities</sub>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/TasfiqUnloader">Tasfiq Unloader</a></h3>
+      <p>A lightweight Minecraft server plugin that places an otherwise empty server into a dormant state to help reduce unnecessary idle resource usage.</p>
+      <sub>Java · Bukkit / Spigot API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/TasfiqSami/Passport-Tool">Passport Tool</a></h3>
-      <p>A browser-based utility with MRZ generation, date formatting, text transformation, and copy/export tools for development and testing.</p>
-      <p><sub><strong>HTML</strong> · CSS · JavaScript</sub></p>
+      <p>A browser-based utility toolkit for MRZ generation, date formatting, text transformation, theme switching, and copy/export workflows for development and testing.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TasfiqSami/portfolio">Personal Portfolio</a></h3>
+      <p>A personal portfolio website built to present projects, work, and technical interests through a modern web interface.</p>
+      <sub>TypeScript · React ecosystem · Vite</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/TasfiqSami?tab=repositories"><strong>Explore all my repositories →</strong></a>
+  <a href="https://github.com/TasfiqSami?tab=repositories"><strong>Explore all public repositories →</strong></a>
 </p>
 
----
-
-## 🧰 Technologies & tools
+## Technologies & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,nodejs,react,vite,mysql,git,linux&perline=6" alt="Java, JavaScript, Python, PHP, HTML, CSS, Node.js, React, Vite, MySQL, Git and Linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,nodejs,react,nextjs,vite,express,mysql,postgres,sqlite,linux,git,github,cloudflare,vercel&perline=7" alt="Technologies and tools used across my projects" />
 </p>
 
-| Area | Technologies |
+| Area | Technologies and tools |
 | --- | --- |
-| **Languages** | Java, JavaScript, Python, PHP, HTML, CSS |
-| **Web development** | Node.js, React, Vite, Express |
-| **Minecraft development** | Paper, Bukkit / Spigot APIs, Velocity, Skript |
-| **Build & data** | Maven, MySQL, MariaDB |
-| **Workflow** | Git, GitHub, Linux, VS Code |
+| **Languages** | Java, JavaScript, TypeScript, Python, PHP, HTML, CSS |
+| **Web development** | Node.js, React, Next.js, Vite, Express |
+| **Minecraft development** | Paper, Bukkit / Spigot APIs, Velocity, Skript, Maven |
+| **Databases & ORM** | PostgreSQL, MySQL, MariaDB, SQLite, Prisma |
+| **Infrastructure** | Linux, VPS administration, Pterodactyl, Reviactyl, Cloudflare |
+| **Deployment & workflow** | Vercel, Git, GitHub, VS Code, CloudPanel |
 
-*The tools above reflect technologies I've used across projects; the exact stack varies by repository.*
+*This list reflects tools I've worked with across different projects. It does not imply the same level of depth or day-to-day use for every technology.*
 
----
+## Current learning focus
 
-## 📊 GitHub activity
+- **Networking:** strengthening the fundamentals of network protocols, services, and infrastructure.
+- **Cybersecurity:** developing practical knowledge of defensive security, system security, and ethical hacking through responsible learning.
+- **Engineering practice:** improving reliability, maintainability, troubleshooting, and the overall quality of the systems I build.
+
+## GitHub activity
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=TasfiqSami&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Tasfiq's GitHub statistics" />
@@ -131,22 +151,22 @@ A lot of my work involves taking an idea beyond a basic prototype—turning it i
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TasfiqSami&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=TasfiqSami&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
----
+## Connect
 
-## 🤝 Connect
-
-I'm interested in useful projects, thoughtful engineering, and collaborations around **Minecraft development**, **server infrastructure**, **web applications**, and **developer tools**.
+I'm open to meaningful conversations, interesting collaborations, and opportunities involving software products, Minecraft engineering, infrastructure, and technology.
 
 <p align="center">
-  <a href="https://github.com/TasfiqSami?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
-  <a href="https://github.com/TasfiqSami/TasfiqSami/issues"><img src="https://img.shields.io/badge/Start_a_conversation-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Start a conversation" /></a>
+  <a href="https://tasfiqahmed.com"><img src="https://img.shields.io/badge/Personal%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+  <a href="https://syxlor.xyz"><img src="https://img.shields.io/badge/SYXLOR-172554?style=for-the-badge&logo=vercel&logoColor=white" alt="SYXLOR" /></a>
+  <a href="https://discord.tasfiqahmed.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/TasfiqSami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <div align="center">
-  <sub>Built with curiosity, patience, and a lot of debugging.</sub>
-  <br />
+  <sub>Building with purpose. Learning continuously. Improving with every iteration.</sub>
+  <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0B1020&height=110&section=footer" alt="" />
 </div>
